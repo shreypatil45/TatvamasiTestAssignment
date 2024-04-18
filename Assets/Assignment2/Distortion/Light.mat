@@ -43,11 +43,11 @@ Material:
     m_Floats:
     - _Alpha: 0
     - _Float: 1
-    - _Immisive: 1
+    - _Immisive: 0.5
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 1.6226628, g: 1.1203156, b: 0.04592414, a: 1}
+    - _Color: {r: 2.8922904, g: 1.731816, b: 0, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &5853383564742591310
 MonoBehaviour:
